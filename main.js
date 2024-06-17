@@ -107,4 +107,5 @@ productos.forEach(elemento => {
 
 contenedorProductos.innerHTML = contenidoProductos
 
-import { getUsers } from "./controller/user.controller";
+
+// Comentario
