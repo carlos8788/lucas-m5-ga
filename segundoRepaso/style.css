@@ -1,0 +1,27 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 20px;
+}
+
+.boton{
+    border: none;
+    background-color: rgb(8, 180, 51);
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.boton:hover{
+    background-color: rgb(49, 234, 96);
+}
+
+.boton:active{
+    background-color: rgb(93, 222, 125);
+    color: black;
+}
+
+img{
+    width: 300px;
+}
